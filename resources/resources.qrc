@@ -1,0 +1,25 @@
+<RCC><qresource prefix="/">
+<file>octolog.svg</file>
+<file>icons/add.svg</file>
+<file>icons/blocs.svg</file>
+<file>icons/clock.svg</file>
+<file>icons/delete.svg</file>
+<file>icons/deposit.svg</file>
+<file>icons/detendeurs.svg</file>
+<file>icons/edit.svg</file>
+<file>icons/export.svg</file>
+<file>icons/fiche.svg</file>
+<file>icons/gilets.svg</file>
+<file>icons/home.svg</file>
+<file>icons/import.svg</file>
+<file>icons/lend.svg</file>
+<file>icons/loans.svg</file>
+<file>icons/lock.svg</file>
+<file>icons/maintenance.svg</file>
+<file>icons/members.svg</file>
+<file>icons/member.svg</file>
+<file>icons/return.svg</file>
+<file>icons/search.svg</file>
+<file>icons/unlock.svg</file>
+<file>icons/warning.svg</file>
+</qresource></RCC>

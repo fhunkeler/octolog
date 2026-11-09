@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=OctoLog
+GenericName=Gestion du matériel de plongée
+Comment=Emprunts du matériel du club Sub Alcatel
+Exec=@CMAKE_INSTALL_FULL_BINDIR@/OctoLog
+Icon=octolog
+Terminal=false
+Categories=Office;Database;Qt;
+Keywords=plongée;matériel;emprunt;bloc;détendeur;gilet;
